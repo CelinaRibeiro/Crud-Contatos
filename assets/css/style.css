@@ -1,0 +1,19 @@
+body{
+	background-color: #EEEEEE;
+}
+
+header, section, footer{
+	max-width: 800px;
+	background-color: #FFFFFF;
+	margin: auto;
+}
+
+header{
+	height: 100px;
+	text-align: center;	
+}
+
+footer{
+	height: 100px;
+	text-align: center;
+}
